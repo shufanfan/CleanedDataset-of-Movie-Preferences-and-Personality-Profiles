@@ -5,3 +5,4 @@ This repositery includes information from [the original dataset](https://github.
 * Included only the following fields: user_id, user gender, personality traits, movie watching frequency, and movie genre preferences.
 * Based on the Cronbach’s Alpha, McDonald’s Omega, and Correlation Matrix analysis, I calculated the average scores for Conscientiousness, Extraversion, and Neuroticism. The dimensions Openness and Agreeableness were removed due to low reliability, indicating issues with the corresponding questions in the original questionnaire. As a result, data from these two dimensions will not be used in further research.
 * Link to the questionnaire: https://observablehq.com/@nujguerra/survey-on-movie-watching-intentions-and-personalit
+* Link to the original dataset: https://github.com/shufanfan/Dataset-of-Movie-Preferences-and-Personality-Profiles
